@@ -1,4 +1,29 @@
-### Hi there 👋
+### Hi there, I'm João Pedro!
+
+<hr />
+
+<i> Studying computer engineering at [UFSM](https://www.ufsm.br/orgaos-de-apoio/sai/welcome-to-ufsm/) </i>
+<br />
+<i> Intern at [ioasys](https://ioasys.com.br) - Backend developer </i>
+
+```javascript
+
+const me = {
+  code: ["Javascript", "Typecript", "HTML", "CSS"],
+  tools: [
+    "NodeJs",
+    "React",
+    "NextJS",
+  ],
+  studying: [
+   "AWS"
+  ],
+}
+
+```
+
+
+
 
 <!--
 **joaopedrobuzattim/joaopedrobuzattim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
