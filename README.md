@@ -16,7 +16,8 @@ const me = {
     "NextJS",
   ],
   studying: [
-   "AWS"
+   "AWS",
+   "Linux"
   ],
 }
 
