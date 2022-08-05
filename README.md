@@ -4,25 +4,8 @@
 
 <i> Studying computer engineering at [UFSM](https://www.ufsm.br/orgaos-de-apoio/sai/welcome-to-ufsm/) </i>
 <br />
-<i> Intern at [ioasys](https://ioasys.com.br) - Backend developer </i>
 
-```javascript
-
-const me = {
-  code: ["Javascript", "Typecript", "HTML", "CSS"],
-  tools: [
-    "NodeJs",
-    "React",
-    "NextJS",
-  ],
-  studying: [
-   "AWS",
-   "Linux"
-  ],
-}
-
-```
-
+<p> Currently, working with data... </p>
 
 
 
