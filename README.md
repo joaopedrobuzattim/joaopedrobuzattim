@@ -5,10 +5,6 @@
 <i> Studying computer engineering at [UFSM](https://www.ufsm.br/orgaos-de-apoio/sai/welcome-to-ufsm/) </i>
 <br />
 
-<p> Currently, working with data... </p>
-
-
-
 <!--
 **joaopedrobuzattim/joaopedrobuzattim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
